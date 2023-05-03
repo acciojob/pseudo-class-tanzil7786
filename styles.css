@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-p span:first-child{
-	color:red;
+div p span:first-child{
+	color:rgb(255,0,0);
 }
-p span:last-child{
-	color:red;
+div p span:last-child{
+	color:rgb(255,0,0);
 }
